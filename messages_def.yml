@@ -14,16 +14,16 @@ error-calc-delay: Vent venligst (%time% min) før du kan bruge den kommando igen
 error-no-free: Der er ingen tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
 error-get-free: Der er problem med tomme øer, hop ind på forum.everpvp.dk og skriv det under Skyblock!
 error-helping: Du kan ikke lave din egen ø, når du allerede er medlem af en anden ø.
-error-wg-region: There is problem with the WG protect region for your island, inform administrator!
-error-no-island-party: You don't have an island or a party.
-error-outside: You can't set home location outside your island.
-error-expell: No players are on the island.
-error-expell-outside: That player is not on your island.
-error-add-have-island: Can't add player to island, they already own one.
-error-add-have-party: Can't add player to island, they are already added to another.
-error-add-limit: Can't add player to island, you've reached the party limit.
-error-add-already: Player %name% is already added to your island.
-error-not-online: Player %name% is not online or does not exist.
+error-wg-region: Der er et problem med WG Protect region for dit island, informer en administrator!
+error-no-island-party: Du har ikke et island/party.
+error-outside: Du kan ikke sætte dit home location ude fra dit island.
+error-expell: Ingen spillere er på dette island.
+error-expell-outside: Den spiller er ikke på dit island.
+error-add-have-island: Kan ikke add spilleren til dit island, spilleren har et island.
+error-add-have-party: Kan ikke add spilleren til dit island, spilleren er addet til et andet.
+error-add-limit: Kan ikke add spilleren til dit island, du har det højste antal man kan have i et party.
+error-add-already: Spilleren er allerede added til dit island.
+error-not-online: Spilleren er ikke online eller findes ikke.
 error-remove-not-added: Player %name% is not added to your island.
 error-tp-have-island: You can't use teleport while you have own island.
 error-tp-no-party: You don't have permission to teleport to %name% island.
